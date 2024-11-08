@@ -1,6 +1,3 @@
-Here's the content for your `README.md` file:
-
----
 
 # Integrity Checker Project
 
@@ -69,7 +66,6 @@ pip install -r requirements.txt
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 --- 
 
